@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm NotZenix</b><br>
-  <a href="https://discord.gg/notsaksh">Discord</a> |
+  <a href="https://discord.gg/S7qsHtJt">Discord</a> |
   <a href="https://twitter.com/NotZenix">Twitter</a> |
   <a href="https://codepen.io/NotZenix">Code Pen</a>
 </p>
